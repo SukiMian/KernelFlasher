@@ -13,7 +13,7 @@ android {
         minSdk 30
         targetSdk 33
         versionCode 13
-        versionName "1.0.0-alpha13"
+        versionName "Ciallo"
 
         vectorDrawables {
             useSupportLibrary true
